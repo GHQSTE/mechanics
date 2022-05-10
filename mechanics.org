@@ -2,10 +2,10 @@
 ** Time graphs
 *** 2021
 **** May/June
-[[file:~/Maths/IAL/Mechanics/images/M1_2021_mayjune_q8.png]]
+[[file:images/M1_2021_mayjune_q8.png]]
 
 ***** Mark Scheme
-[[file:~/Maths/IAL/Mechanics/images/M1_2021_mayjune_ms8.png]]
+[[file:images/M1_2021_mayjune_ms8.png]]
 
 **** Jan
 [[file:images/M1_2021_jan_q7.png]]
